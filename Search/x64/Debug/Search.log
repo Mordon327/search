@@ -1,0 +1,5 @@
+﻿  driver.cpp
+c:\users\shane\desktop\cs 2420\new projects\search\search\driver.cpp(55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\shane\desktop\cs 2420\new projects\search\search\driver.cpp(164): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Search.vcxproj -> C:\Users\Shane\Desktop\CS 2420\New Projects\Search\x64\Debug\Search.exe
+  Search.vcxproj -> C:\Users\Shane\Desktop\CS 2420\New Projects\Search\x64\Debug\Search.pdb (Partial PDB)

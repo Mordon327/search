@@ -1,0 +1,13 @@
+Search Method,Wall Time,Number of Comparisons,Vector Size
+Recursive,0.000946,9,1000
+Iterative,0.010397,13,1000
+Linear,0.033556,107,1000
+Recursive,0.000945,17,10000
+Iterative,0.011816,14,10000
+Linear,1.07048,3827,10000
+Recursive,0.000945,30,100000
+Iterative,0.016069,21,100000
+Linear,38.8609,100127,100000
+Recursive,0.000946,46,1000000
+Iterative,0.015596,24,1000000
+Linear,200.307,661147,1000000
